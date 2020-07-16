@@ -5,5 +5,5 @@ HTML,CSS, Bootstrap 5 Alpha
 all images downloaded from internet
 
 -----------------------------
-Amit Kumar Biswas
+Amit Kumar Biswas <br>
 Web Developer
